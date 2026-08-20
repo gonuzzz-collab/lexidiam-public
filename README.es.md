@@ -4,7 +4,7 @@
 
 [Read in English](README.md)
 
-![Arquitectura pública conceptual de Lexidiam](assets/lexidiam-architecture-es.png)
+![Arquitectura pública conceptual de Lexidiam](lexidiam-architecture-es.png)
 
 Lexidiam explora una pregunta:
 
