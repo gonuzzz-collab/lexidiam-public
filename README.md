@@ -4,7 +4,7 @@
 
 [Leer en español](README.es.md)
 
-![Lexidiam public architecture overview](assets/lexidiam-architecture-en.png)
+![Lexidiam public architecture overview](lexidiam-architecture-en.png)
 
 Lexidiam explores a question:
 
